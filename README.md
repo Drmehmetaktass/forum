@@ -1,4 +1,4 @@
-# NexusForum — Kurulum Rehberi
+# GİBTü — Kurulum Rehberi
 
 ## Sistem Gereksinimleri
 - PHP 8.0 veya üzeri
